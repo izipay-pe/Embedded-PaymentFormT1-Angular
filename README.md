@@ -18,7 +18,7 @@ Esta página explica cómo crear un formulario de pago dinámico desde cero util
 git clone https://github.com/izipay-pe/Embedded-PaymentFormT1-Angular.git
 ``` 
 
-* Ingrese a la carpeta raiz del proyecto en:
+* Ingrese a la carpeta raiz del proyecto.
 
 
 * A continuación, instale el cliente angular-cli:
