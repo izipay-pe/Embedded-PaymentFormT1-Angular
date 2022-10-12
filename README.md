@@ -20,9 +20,6 @@ git clone https://github.com/izipay-pe/Embedded-PaymentFormT1-Angular.git
 
 * Ingrese a la carpeta raiz del proyecto en:
 
-```sh
-cd minimal-example
-```
 
 * A continuación, instale el cliente angular-cli:
 
