@@ -31,7 +31,7 @@ Esta página explica cómo crear un formulario de pago dinámico desde cero util
   npm install -g @angular/cli
   ```
 
-Más detalles en la página web de [angular-cli](https://angular.io/guide/quickstart).
+  Más detalles en la página web de [angular-cli](https://angular.io/guide/quickstart).
 
 * Agregue la dependencia con:
 
@@ -189,7 +189,7 @@ ver el resultado en http://localhost:4200/
           styleUrls: ["./app.component.css"]
         })
         export class AppComponent implements OnInit {
-          title: string = "Ejemplo de un formulario popin en ANGULAR";
+          title: string = "Ejemplo de un formulario incrustado en ANGULAR";;
           (...),
             ngOnInit() {
               /* use su endpoint y la clave public_key */
